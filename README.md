@@ -96,4 +96,7 @@ Welcome to my GitHub profile! This is my journey in the world of programming and
   <a href="https://web.facebook.com/ayoub.naim.3158" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
+   <a href="https://wa.me/+212617677193" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Whatsapp" height="30" width="40"/>
+  </a>
 </p>
