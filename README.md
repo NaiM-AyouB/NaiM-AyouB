@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./image.png" style="width:100%;border-radius:4px" alt="Header Image">
+  <img src="./image.webp" style="width:100%;border-radius:4px" alt="Header Image">
 </div>
 
 # Hi 👋, I'm Naim Ayoub
