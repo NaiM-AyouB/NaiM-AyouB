@@ -22,6 +22,19 @@ Welcome to my GitHub profile! I'm a dedicated developer with a keen interest in 
 
 ## 🛠️ Languages and Tools
 
+### **Programming Languages**
+<p align="left">
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://www.gnu.org/software/bash/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="Bash" width="40" height="40"/>
+  </a>
+</p>
+
 ### **Frontend Development**
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
@@ -52,6 +65,12 @@ Welcome to my GitHub profile! I'm a dedicated developer with a keen interest in 
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+  </a>
+  <a href="https://www.vagrantup.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="Vagrant" width="40" height="40"/>
+  </a>
 </p>
 
 ### **Design & Prototyping**
@@ -66,6 +85,7 @@ Welcome to my GitHub profile! I'm a dedicated developer with a keen interest in 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
   </a>
 </p>
+
 
 ---
 
